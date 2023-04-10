@@ -192,7 +192,7 @@ Next lets add some code to run upon creation of the codespace!
  
 </details>
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Personalize your codespace!</h2></summary>
 
 _Nicely done customizing your codespace!_ :partying_face:
@@ -260,7 +260,7 @@ git push
 
 </details>
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
