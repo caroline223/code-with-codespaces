@@ -123,7 +123,7 @@ Note the image being used is the default image provided for GitHub Codespaces. I
 **Wait about 20 seconds then refresh this page for the next step**
 
 </details>
-<details id=3 open>
+<details id=3>
 	
 <summary><h2>Step 3: Customize your codespace!</h2></summary>
 
@@ -192,7 +192,7 @@ Next lets add some code to run upon creation of the codespace!
  
 </details>
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Personalize your codespace!</h2></summary>
 
 _Nicely done customizing your codespace!_ :partying_face:
