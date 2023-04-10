@@ -76,7 +76,7 @@ git push
 **Wait about 20 seconds then refresh this page for the next step**
 </details>
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a custom image to your codespace!</h2></summary>
 
 _Nice work! :tada: You created your first codespace and pushed code using VS Code!_
@@ -123,7 +123,7 @@ Note the image being used is the default image provided for GitHub Codespaces. I
 **Wait about 20 seconds then refresh this page for the next step**
 
 </details>
-<details id=3>
+<details id=3 open>
 	
 <summary><h2>Step 3: Customize your codespace!</h2></summary>
 
